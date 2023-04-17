@@ -1,22 +1,37 @@
-![howfm-weblogo_whitespace](https://user-images.githubusercontent.com/1236319/223379116-01e04545-4d4a-4296-8e1e-c155ea2ed1f8.svg)
+## A Sample UI using "@material-ui/core": "4.12.4"
 
-# Welcome to your how.fm coding challenge :wave:
 
-This project was originally bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Desktop view
 
-Refer to the original README `ReactAppREADME.md` to find out how to run the project using [yarn](https://yarnpkg.com/) scripts.
+<img width="1071" alt="image" src="https://user-images.githubusercontent.com/37729206/232368423-9cc65705-098d-4321-9469-85f9e64e5b3f.png">
 
-You might already know it from our [public preparation repository](https://github.com/howfm-hiring/web_frontend_case_study_prep).
 
-Have fun and good luck :dizzy:
+Mobile view
 
-## Steps
+<img width="356" alt="image" src="https://user-images.githubusercontent.com/37729206/232368488-e00f4580-819c-41ff-a57c-9773d13e4e3f.png">
 
-1. Open your Reviewly countdown and submit page: click the `[Accept the invite]` button again
-1. Review the **open pull request** in this repo for an overview of your tasks
-1. Checkout the ⚠️ `feature`-branch and work through the issues in your preferred IDE
-1. Constantly push your changes and keep the pull request description up-to-date
-1. Submit your results using Reviewly – if time runs up Reviewly will automatically submit what is there
+![material-ui](https://user-images.githubusercontent.com/37729206/232368904-74d3468c-54ff-4cd0-bac9-4bce4e20794d.gif)
 
 
 
+### Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best perfo
